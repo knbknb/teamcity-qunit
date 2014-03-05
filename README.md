@@ -1,6 +1,6 @@
 <h4>README.md</h4>
 
-This is a rewrite of the file found at 
+[This](https://github.com/knbknb/teamcity-qunit/raw/master/qunit.teamcity.js) single file is a rewrite of the file found at 
 
 https://gist.github.com/stuartf7/1755675
 
